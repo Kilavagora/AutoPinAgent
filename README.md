@@ -1,5 +1,7 @@
 # Auto-PIN Agent
 
+![Build and Release](https://github.com/kilavagora/AutoPinAgent/actions/workflows/build-and-release.yml/badge.svg)
+
 Auto-PIN Agent is a lightweight Windows tray application designed to streamline your workflow when using security keys (like YubiKey) or other services that frequently prompt for a PIN in Windows Security dialogs.
 
 ## How it Works
@@ -27,7 +29,7 @@ Your PIN is requested only once when the application starts and is stored secure
 
 ## Credits
 
-This app was inspired by [AutoInsertPin](https://github.com/joseangelmt/AutoInsertPin)
+This app was inspired by [AutoInsertPin](https://github.com/joseangelmt/AutoInsertPin).
 
 ## License
 
